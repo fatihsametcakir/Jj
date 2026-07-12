@@ -225,8 +225,8 @@
    Kurulum talimatları için sohbetteki mesajıma bak.
    Firebase konsolundan aldığın bilgileri aşağıya yapıştır: */
 const CONFIG = {
-  apiKey: "YOUR_API_KEY",
-  projectId: "YOUR_PROJECT_ID"
+  apiKey: "AIzaSyAjokbemkbr7o-2UEk_2ICAioSKmpq9d6o",
+  projectId: "bachata-jj"
 };
 /* ====================================================== */
 
